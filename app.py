@@ -12,12 +12,3 @@ def get_search(txt="yada",search="ya"):
 if __name__ == '__main__':
     app.run(debug=True,host='0.0.0.0')
 
-# txt = input("write a sentence")
-# search = input("What do you want to search?")
-
-# print(x)
-# if (x):
-#     print("Yes, there is at least one match!")
-# else:
-# #     print("no match")
-# @app.route('/<str:txt><str:search>', methods=['GET'])
